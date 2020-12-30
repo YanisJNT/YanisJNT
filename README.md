@@ -6,7 +6,7 @@
 
 Je m'appelle Yanis, ;) , je fais essentiellement:
 
-- Html ![emiche1](https://github.com/yayouu/yayouu/blob/main/html.jpg)
+- Html 
 - css
 - Javascript
 - Python
