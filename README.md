@@ -4,7 +4,7 @@
 
 ### Salut  👋
 
-Je m'appelle Yanis, ;) , je fais essentiellement du :
+Je m'appelle Yanis,  j'ai   17 ans et  je fais essentiellement du :
 
 - Html
 - css
