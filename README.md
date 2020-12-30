@@ -4,7 +4,7 @@
 
 ### Salut  👋
 
-Je m'appelle Yanis, ;) , je fais essentiellement:
+Je m'appelle Yanis, ;) , je fais essentiellement du :
 
 - Html
 - css
