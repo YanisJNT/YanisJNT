@@ -9,7 +9,6 @@ Je m'appelle Yanis,  j'ai   17 ans et  je fais essentiellement du :
 - Html
 - css
 - Javascript
-- Python
 
 ### Vous pouvez me retrouver sur :
 - <a href="https://twitter.com/PacLey1">Twitter</a>
