@@ -4,11 +4,12 @@
 
 ### Salut  👋
 
-Je m'appelle Yanis,  j'ai   17 ans et  je fais essentiellement du :
+Je m'appelle Yanis et j'ai 17 ans.
 
-- Html
-- css
-- Javascript
+### mes autres  passions :
+
+  - les jeux vidéos
+  - la natation
 
 ### Vous pouvez me retrouver sur :
 - <a href="https://twitter.com/PacLey1">Twitter</a>
