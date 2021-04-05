@@ -6,7 +6,7 @@
 
 Je m'appelle Yanis et j'ai 17 ans.
 
-### mes autres  passions :
+### Mes autres  passions :
 
   - les jeux vidéos
   - la natation
