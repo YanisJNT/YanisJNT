@@ -1,10 +1,3 @@
-
-
-[![yayouu stats](https://github-readme-stats.vercel.app/api?username=yayouu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yayouu)
-
-# ![emiche1](https://github.com/yayouu/yayouu/blob/main/1.gif)
-
-
 # Technologies :
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,5 +12,16 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-bientôt : 
+# bientôt : 
+
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
+# stats :
+
+[![yayouu stats](https://github-readme-stats.vercel.app/api?username=yayouu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yayouu)
+
+
+
+# ![emiche1](https://github.com/yayouu/yayouu/blob/main/1.gif)
+
+
