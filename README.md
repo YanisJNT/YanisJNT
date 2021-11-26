@@ -5,3 +5,6 @@ Salut
 # ![emiche1](https://github.com/yayouu/yayouu/blob/main/1.gif)
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/yayouu/github-profile-trophy)
+
+
