@@ -18,9 +18,6 @@
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-# stats :
-
-[![yayouu stats](https://github-readme-stats.vercel.app/api?username=YanisJNT&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YanisJNT)
 
 
 
