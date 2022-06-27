@@ -20,7 +20,7 @@
 
 # stats :
 
-[![yayouu stats](https://github-readme-stats.vercel.app/api?username=yayouu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YanisJNT)
+[![yayouu stats](https://github-readme-stats.vercel.app/api?username=YanisJNT&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/YanisJNT)
 
 
 
